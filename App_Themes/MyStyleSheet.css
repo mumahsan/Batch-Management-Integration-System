@@ -1,0 +1,464 @@
+﻿
+
+.Blank_Div
+{
+Width:650px;
+Height:25px
+}
+
+.Button_
+{
+width:70px;
+font-size:15px; 
+font-family: Courier New; 
+color:#284E98;
+text-align:center;
+vertical-align:middle;
+}
+.Button_Small
+{
+width:50px;
+Height:20px;
+font-size:11px; 
+font-family: Courier New; 
+color:#284E98;
+text-align:center;
+}
+
+.Calendar_
+{
+width:150px;
+Font-Size:10px;
+Height:12px;
+}
+
+.DateTimePicker_
+{
+width: 24px;
+height: 19px; 
+cursor: pointer;
+}
+
+.Div_First
+{
+width: 800px; 
+text-align:left;
+}
+
+.Div_First_computer1
+{
+width: 400px; 
+text-align:left;
+float:left;
+
+}
+.Div_First_computer2
+{
+width: 350px; 
+text-align:left;
+float:right;
+}
+
+.Div_Header
+{
+text-align:center;
+font-size:18px; 
+font-family: 'Courier New', Courier, monospace; 
+font-weight: bold; 
+padding-top:20px; 
+padding-bottom:10px;
+}
+
+.Div_Second
+{
+width: 800px; 
+text-align:center;
+vertical-align:middle;
+
+}
+
+.Div_Main
+{
+    width: 800px;
+    text-align: center;
+	height: 200px;
+}
+
+
+.Div_Page
+{
+width: 800px; 
+text-align:center;
+
+}
+
+.Div_Success_Message
+{
+text-align:center;
+padding-top:100px; 
+padding-bottom:20px;  
+font-family: 'Courier New', Courier, monospace; 
+font-size: 15px; 
+font-weight: bold;
+}
+
+.DropDownList_
+{ 
+font-family: 'Courier New', Courier, monospace; 
+width:250px;
+Font-Size:11px;
+Height:18px;
+}
+
+.DropDownList_TextBoxSizeSmall
+{ 
+font-family: 'Courier New', Courier, monospace; 
+width:150px;
+Font-Size:11px;
+Height:18px;
+}
+.DropDownList_TextBoxSizeMedium
+{ 
+font-family: 'Courier New', Courier, monospace; 
+width:200px;
+Font-Size:11px;
+Height:18px;
+}
+
+.DropDownList_Name
+{
+font-size:15px; 
+font-family: 'Courier New', Courier, monospace; 
+width:300px
+}
+
+.DropDownList_Br
+{
+    font-size: 15px;
+    font-family: Times New Roman;
+    width: 300px;
+}
+
+.ErrorMsg 
+{ 
+color: red; 
+font-size: 12px; 
+font-family: 'Courier New', Courier, monospace; 
+}
+
+.GridHeader_
+{
+position: absolute;
+width:700px;
+}
+.fixedheadercell
+{
+    FONT-WEIGHT: bold; 
+    FONT-SIZE: 10pt; 
+    WIDTH: 200px; 
+    COLOR: white; 
+    FONT-FAMILY: Arial; 
+    BACKGROUND-COLOR: Blue;
+}
+
+.fixedheadertable
+{
+    left: 0px;
+    position: relative;
+    top: 0px;
+    padding-right: 2px;
+    padding-left: 2px;
+    padding-bottom: 2px;
+    padding-top: 2px;
+}
+
+.gridcell
+{
+    WIDTH: 200px;
+}
+.header
+{
+
+height:30px;
+  font-family:'Arial'; 
+font-Size:11px;
+font-weight:bold;
+background-color:#CCCCCC;
+border-color:Black;
+border-style:solid;
+border-width:1px;
+text-align:center;
+vertical-align:middle;  
+}
+
+.Header_Div
+{
+width: 650px; 
+height:25px;  
+color: #334466; 
+font-family: 'Courier New', Courier, monospace;
+font-size: 22px; 
+font-weight: bold;
+text-align: left;
+}
+
+
+
+.MaskedTextBox_Date_
+{ 
+width:125px;
+Font-Size:10px;
+Height:12px;
+}
+
+
+.Master_
+{
+
+
+}
+
+
+
+.Numeric_Box_
+{
+width:100px;
+Font-Size:10px;
+Height:12px;
+}
+
+.Panel_first
+{
+Width:800px;
+text-align:center;
+visibility:visible;
+height:400px;
+}
+
+.Panel_Success_
+{
+Width:800px;
+text-align:center;
+height:400px;
+}
+.Panel_Admin_Emp
+{
+Width:800px;
+text-align:center;
+visibility:visible;
+}
+
+.Panel_Admin_Emp_Computer
+{
+Width:400px;
+text-align:left;
+visibility:visible;
+}
+
+.Panel_Grid_
+{
+width:800px;
+height:100px;
+text-align:center;
+}
+
+.Table_
+{
+width:800px;
+font-family: 'Courier New', Courier, monospace; 
+font-size: 12px
+}
+
+.Table_Computer
+{
+width:400px;
+text-align:center;
+font-family: 'Courier New', Courier, monospace; 
+font-size: 12px
+}
+
+.Table_TD_Data_Header
+{
+width: 650px; 
+font-size:20px; 
+font-weight:bold;
+font-family:Times New Roman;
+vertical-align: top; 
+text-align:center;
+color:White;
+background-color:#507CD1;
+}
+
+.Table_TD_Data_Message
+{
+text-align:center;
+height:25px;
+}
+.Table_TD_Data_Success
+{
+width: 650px; 
+color:Black;
+font-size:15px; 
+font-weight:bold;
+font-family:Times New Roman;
+vertical-align: top; 
+text-align: center;
+}
+
+.Table_TD_Data_Left
+{
+height:15px;
+text-align:right;
+vertical-align:top;
+width:400px; 
+font-family: 'Courier New', Courier, monospace; 
+font-size: 12px;
+}
+.Table_TD_Data_Right
+{
+height:15px;
+text-align:left;
+vertical-align:top;
+width:400px; 
+font-family: 'Courier New', Courier, monospace; 
+font-size: 12px;
+}
+
+.Table_TD_Data_Left_Computer
+{
+height:15px;
+text-align:right;
+vertical-align:top;
+width:125px; 
+font-family: 'Courier New', Courier, monospace; 
+font-size: 12px;
+}
+.Table_TD_Data_Right_Computer
+{
+height:15px;
+text-align:left;
+vertical-align:top;
+width:275px; 
+font-family: 'Courier New', Courier, monospace; 
+font-size: 12px;
+}
+
+.Table_Admin
+{
+padding-left: 0px; 
+padding-right: 0px; 
+border-collapse: collapse; 
+height: 20px; 
+background-color: #6600CC;
+width:800px;
+}
+
+
+.TextBoxLagre_
+{
+Width:250px;
+height:15px;
+font-size:12px; 
+font-family: 'Courier New', Courier, monospace; 
+
+}
+
+.TextBoxMedium_
+{
+Width:160px;
+height:15px;
+Font-Size:12px;
+font-family:@Arial Unicode MS;
+}
+
+.TextBoxSmall_
+{
+Width:100px;
+height:15px;
+Font-Size:12px;
+font-family:@Arial Unicode MS;
+}
+
+
+.TextBox_Note
+{
+Width:250px;
+Font-Size:10px;
+}
+
+
+
+.TextBox_TADA_
+{ 
+width:125px;
+height:12px;
+}
+
+.TextArea_
+{
+Width:250px;
+font-size:15px; 
+font-family: Times New Roman ; 
+height:75px;
+}
+
+.TextArea_Circular
+{
+Width:350px;
+font-size:15px; 
+font-family: Times New Roman; 
+height:75px;
+}
+
+
+
+.watermark {
+	background: #FFAAFF;
+}
+
+.popupControl {
+	background-color:#AAD4FF;
+	position:absolute;
+	visibility:hidden;
+	border-style:solid;
+	border-color: Black;
+	border-width: 2px;
+}
+
+
+
+.modalPopup {
+	background-color:#ffffdd;
+	border-width:3px;
+	border-style:solid;
+	border-color:Gray;
+	padding:3px;
+	width:250px;
+}
+
+.sampleStyleA {
+	background-color:#FFF;
+}
+
+.sampleStyleB {
+	background-color:#FFF;
+	font-family:monospace;
+	font-size:10pt;
+	font-weight:bold;
+}
+
+.sampleStyleC {
+	background-color:#ddffdd;
+	font-family:sans-serif;
+	font-size:10pt;
+	font-style:italic;
+}
+
+.sampleStyleD {
+	background-color:Blue;
+	color:White;
+	font-family:Arial;
+	font-size:10pt;
+}
+
+
